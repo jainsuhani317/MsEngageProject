@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116034493462",
+    "project_id": "msengage-3d254",
+    "storage_bucket": "msengage-3d254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116034493462:android:08473df6ea9c6cdd5fe937",
+        "android_client_info": {
+          "package_name": "com.callit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116034493462-r5cplhh394t2nfv1st5ofrd3oiioquoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wfyE420vqMTDOM_rEo9kSzBLaEm-Miw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116034493462-r5cplhh394t2nfv1st5ofrd3oiioquoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
